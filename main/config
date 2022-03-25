@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[user]
+	name = joel
+	email = muucunn@163.com
