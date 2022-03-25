@@ -5,3 +5,6 @@
 [user]
 	name = joel
 	email = muucunn@163.com
+[remote "origin"]
+	url = https://github.com/joelblog/brownie_fund_me.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
